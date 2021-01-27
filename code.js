@@ -28,4 +28,12 @@ const callback = (response) => {
   });
   response.on("end", function () {});
 };
-https.request(option, callback).end();
+const FUNDCODE = ["B-INCOMESSF", "BM70SSF", "BEQSSF", "B-FUTURESSF"];
+
+if (FUNDCODE.includes(process.argv[2])) {
+  https.request(option, callback).end();
+} else {
+  console.log(
+    "Can't not found this FUNDCODE in https://codequiz.azurewebsites.net/"
+  );
+}
