@@ -1,6 +1,6 @@
 # question-3
 
-This can be run by typing the following command to log NAV of FUNCODE.
+This can be run by typing the following command to log NAV of FUNCODE. (https://codequiz.azurewebsites.net/)
 ```
 node code.js B-INCOMESSF
 
