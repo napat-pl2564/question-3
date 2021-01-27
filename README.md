@@ -2,4 +2,6 @@
 
 Run by command as
 
-node code.js FUNCODE (B-INCOMESSF, BM70SSF, BEQSSF, B-FUTURESSF)
+node code.js FUNCODE 
+
+select FUNCODE in B-INCOMESSF, BM70SSF, BEQSSF, B-FUTURESSF
