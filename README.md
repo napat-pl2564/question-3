@@ -1,6 +1,6 @@
 # question-3
 
-This can be run by typing the following command .
+This can be run by typing the following command to log NAV of FUNCODE.
 ```
 node code.js B-INCOMESSF
 
