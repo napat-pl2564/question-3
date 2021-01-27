@@ -1,3 +1,3 @@
 # question-3
 
-node code.js FUNCODE
+node code.js FUNCODE (B-INCOMESSF, BM70SSF, BEQSSF, B-FUTURESSF)
