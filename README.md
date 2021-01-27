@@ -1,7 +1,13 @@
 # question-3
 
-Run by command as
+This can be run by typing the following command .
+```
+node code.js B-INCOMESSF
 
-node code.js FUNCODE 
+node code.js BM70SSF
 
-select FUNCODE in B-INCOMESSF, BM70SSF, BEQSSF, B-FUTURESSF
+node code.js BEQSSF
+
+node code.js B-FUTURESSF
+```
+
